@@ -2,7 +2,7 @@
     "name": "menupages",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://hardik2626.github.io/navigationdemo/",
+    "homepage": "https://hardik2626.github.io/menupages/",
     "dependencies": {
         "react": "^16.8.3",
         "react-dom": "^16.8.3",
